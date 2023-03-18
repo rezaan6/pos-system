@@ -1,4 +1,3 @@
-# Bookmark (STAR) My Project if it's useful. 1
 # POS System
 ### Scenario
 Similar to the system in a supermarket, I am given to make a POS system that is similar but a smaller version of it. Like any other place there are always the two kind of people and in this case it is the administrator and the cashier. 
@@ -30,7 +29,3 @@ In the WORD document as "Code.docx"
 
 # Installation
 Import the project in NetBeans(or any other Java IDE) and Compile it.
-
-# Developed by
-MOHAMMED REZAAN RIYAZ
-
